@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 PROJECT_CPD_INST_OPERANDS=cpd
-ROUTE=cpd-wkc.apps.cpd510vz.cp.fyre.ibm.com
-admin_username=sanjitc
-admin_apikey=MBtAkTm57z9SSUJltjBwoaeDLDVcw1t4R58Omta9
+ROUTE=<update with CPD host URL>
+admin_username=<user name>
+admin_apikey=<authentication key for the userid>
 
 PROJECT=779ab788-dd59-4b1c-a735-928c232916a9
 
